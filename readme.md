@@ -1,6 +1,6 @@
 # Benjamin Lehmann
 
-I'm a student at the University of Alberta pursuing a BSc in Computing Science with a minor in Economics.
+I'm a student at the University of Alberta pursuing a BSc in Computing Science with a minor in Economics. Recently I started a technical blog [here](https://bclehmann.github.io/).
 
 [![](https://github-readme-stats.vercel.app/api?username=bclehmann&count_private=true&show_icons=true)](https://github.com/bclehmann)
 
