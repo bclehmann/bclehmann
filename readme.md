@@ -1,6 +1,10 @@
 # Benjamin Lehmann
 
-I'm a student at the University of Alberta pursuing a BSc in Computing Science with a minor in Economics. Recently I started a technical blog [here](https://bclehmann.github.io/).
+I currently work as a Junior Full Stack Developer at [Darkhorse Emergency](https://darkhorseemergency.com/).
+
+I graduated this spring from the University of Alberta with a major in Computing Science and a minor in Economics.
+
+Recently I started a technical blog [here](https://bclehmann.github.io/).
 
 ## Work Experience
 - Part of teams at [Darkhorse Analytics](https://www.darkhorseanalytics.com/) that developed:
