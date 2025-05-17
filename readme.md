@@ -2,7 +2,7 @@
 
 I currently work as a Junior Full Stack Developer at [Darkhorse Emergency](https://darkhorseemergency.com/).
 
-I graduated this spring from the University of Alberta with a major in Computing Science and a minor in Economics.
+I graduated in spring 2024 from the University of Alberta with a major in Computing Science and a minor in Economics.
 
 Recently I started a technical blog [here](https://bclehmann.github.io/).
 
